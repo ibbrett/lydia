@@ -19,3 +19,7 @@ configure next.js features
 ### eslint.config.ts
 
 configuration file for eslint for linting
+
+### app/layout.tsx
+
+main entry point for app, effects all pages and routes
