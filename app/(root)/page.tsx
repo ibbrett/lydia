@@ -15,6 +15,15 @@ const Home = () => {
         <li>
           <Link href={`/dashboard/users`}>users</Link>
         </li>
+        <li>
+          <Link href={`/about`}>about</Link>
+        </li>
+        <li>
+          <Link href={`/nfl`}>nfl</Link>
+        </li>
+        <li>
+          <Link href={`/books`}>books</Link>
+        </li>
       </ul>
     </main>
   );
