@@ -25,7 +25,7 @@ const NFLTeams = async () => {
 
       <div className="flex flex-wrap justify-center gap-6 p-6">
         {teams.map((team: Team) => (
-          <Card team={team} />
+          <Card key={team.id} team={team} />
         ))}
       </div>
     </div>
