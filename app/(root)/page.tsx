@@ -24,6 +24,9 @@ const Home = () => {
         <li>
           <Link href={`/books`}>books</Link>
         </li>
+        <li>
+          <Link href={`/notes`}>notes</Link>
+        </li>
       </ul>
     </main>
   );

@@ -1,0 +1,916 @@
+## CURRENT - as of 11/09/2025
+
+# 1. Next.js learning
+https://youtu.be/XadGb6-Dq3U
+The #1 Next.js 16 Feature You're Not Using
+
+/Users/suva/Code/Node/React/React19Frameworks/next-react-19-2
+
+# local react app
+http://localhost:3000/nest/1
+http://localhost:3000/api/nest
+
+# start mongodb server
+# /Users/suva/DB/mongodb-macos-aarch64--8.2.0/data/db
+# pwd doesn't matter
+mongod --dbpath=/Users/suva/DB/mongodb-macos-aarch64--8.2.0/data/db
+
+created script to start mongo and dev concurrently
+
+https://nextjs.org/docs/app/getting-started/cache-components
+Suspense Boundaries
+
+
+# 2. create a chrome extension, or find one that works for managing file updates
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+
+
+# 3. Leahi portal
+/Users/suva/Code/Node/LeahiPortal/portal_cursor
+/Users/suva/Code/Node/LeahiPortal/api
+npm run dev
+
+# notes
+/Users/suva/Code/Node/LeahiPortal/api/md/README_REACT_19.md
+
+
+# 4. Vids: howto and inspire
+# Cliff Weitzman
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQcqbftgFBvgSnMxHfjplNpsDfg?projector=1
+12:35
+
+https://certificates.dev/#available-certificates
+https://resend.com
+inspect new framework installs
+
+
+# 5 Vercel app
+https://postgres-portal.vercel.app/sections/event?section_id=3
+
+# where do I find time to keep up with:
+https://nextjsweekly.com/issues/106
+
+
+# 6. updated "replay" script for auto typing
+Activity-001.vscreplay
+
+
+---
+
+## 1/8/2026 THURSDAY
+
+Laird + 6 semesters:
+$3726.00 * 6 = $22,356.00 
+
+Cecelia semester: $2,483.04 + $4,217.96 = $6,701.00 
+Cecelia + 4 semesters: $6,701.00 * 4 = $26,804.00
+
+---
+
+** PUT AI ON THE RESUME
+
+---
+
+https://github.com/ibbrett
+https://ibbrett.github.io/astro-transition-typescript/
+
+--- moved 10K from B account to checking
+
+
+---
+
+# Makaleka
+light bulb
+
+
+
+---
+
+## FRIDAY
+
+bought HOOD PLTR
+RKLB: buy on a dip
+
+
+FInal Destination Bloodlines on Prime
+
+---
+
+## SUNDAY
+
+Board of water supply
+Account # 4374693372Address 735 MAKALEKA AVE APT A, HONOLULU, HI, 96816-6026
+$112.36
+paid Makaleka today
+
+set up "event" for paying Oliana on Jan 19, due Jan 20
+
+---
+
+truncated stocks lists
+ACHR, JOBY, HOOD, RKLB, SOUN
+GOOG, AMZN, CASY, NVDA
+
+---
+
+## MONDAY
+
+1. made appt to bring in HRV for service on MONDAY @ Sumida
+
+---
+
+passwords
+
+Aura060701!
+Costco060701!
+
+
+
+plywood, 2x2, straight strap
+ladder
+
+---
+
+job hunt:
+Senior Frontend Engineer
+Experian
+Remote
+$100.65K - $174.46K/yr
+https://www.ziprecruiter.com/jobs/a/b?lk=vOpB75wr9FZP-GVeF39K0Q&tsid=111000153
+
+I would love to help streamline and enhance the existing D2C codebase/stack. With the responsibilities and qualifications aligning very well with my experience and background I believe I'd be a great fit. Thank you for your consideration. 
+
+job hunt:
+Lead/Senior Frontend Developer with React Experience
+Futran Tech Solutions Pvt. Ltd.
+Remote
+https://www.ziprecruiter.com/jobs/a/b?lk=omzQqWW8-n8x6LxffymKzQ&tsid=111000153
+
+job hunt:
+Software Developer I
+Casne Engineering, Inc.
+Bellevue, WA • Remote
+$80K - $115K/yr
+https://www.ziprecruiter.com/jobs/a/b?lk=_iFKvwVQ84au6hOGdXYi1w&tsid=111000281
+
+job hunt:
+Senior Front-End Engineer
+Sago
+Remote
+https://www.ziprecruiter.com/jobs/a/b?lk=-5X12UpM-r7svSsohrvOAw&tsid=111000153
+
+
+job hunt:
+https://www.ziprecruiter.com/jobs/a/b?lk=AGYXCL4KSdXON8EG2OR0yA&tsid=111000153
+Senior Front-End Developer
+PTP
+Austin, TX • Remote
+
+---
+
+## TUESDAY
+
+Vaneck oil ETF - possible short squeeze setup
+
+---
+
+## WEDNESDAY
+
+Experian
+https://www.experianplc.com/content/dam/marketing/global/plc/en/assets/documents/reports/2025/power-of-you-2025.pdf
+https://www.instagram.com/experianjobs/
+
+job hunt:
+Dutchie
+Senior Software Engineer, Front-End
+149-200K
+https://www.linkedin.com/jobs/view/4321661240/?eBP=CwEAAAGbsUui7iUHNl1klPdNbvAvEAA8Ye06PiRXNY41yyhWOrUXxG55cHgpL96viNL97wwfjQLetsl7UCkQErA94AMnt1OwBGC8uxbLJOUxfCohPI3PyDqG7HxI0EUiaDKrzMfKfPdO6aTZDrYN2gBXPQUK-0FsYB3Ebxj1KPKdU3VlihL0UC0bn3VXQATx-9fGN5zRTWf90q3N_HdMWbH7d_LXYnl2Ccn9_YYSMoDkWLYW7CU0XOcIGa76H3DcSoDM8sn2nSFSH6LPUBN3x-H3j_dDH8v1Q_lO-aD31BQdf7MBRLFrcG75RqgrojMM5F1qIY5VUCoZm3L96Kd2djtFfBGXKlAg55vtybJLzhzttt22p2WgMESV9ylfrv76gVnVAnww4urrnoEAuCU_VuUEzCSmZpzkZrGVUnfa7A68U1FzUDuoT1oTSWGFDyxxtWpoFvN_9Coap9Ginjw&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&refId=iE3Fh9cDToKJN7fOjoFL3Q%3D%3D&trackingId=DLPJItK5S7Sbs6p3XiBKxg%3D%3D
+
+getting in on the ground-level
+leading technology company in the cannabis space
+delightful for dispensaries to use
+interesting problems to solve
+
+What I bring is much experience as listed in the "Do..." and "Bring" sections. Beyond checking boxes I especially like the beginning and early stages of company/product/project development. It is there where major decisions on direction are made. I like being part of this direction. 
+
+expected salary: 140-149K
+
+
+job hunt:
+React Developer
+Anagh Technologies, Inc.
+Remote - TX
+$106.50K - $123.90K/yr
+https://www.ziprecruiter.com/jobs/a/b?lk=XI0czbYK1Tlrc01ox1_1GA&tsid=111000153
+
+---
+
+Kristina Partsinevelos
+
+
+---
+
+https://candidateportalnew.ceipal.com/job-details/k0WkSp-HRT8apYN_bwDHrYKNHCDE4Ys-B92RyuuWGfc
+
+
+---
+
+liquid has been detected in the lightning connector
+
+---
+
+# Da hui
+https://liveheats.com/events/459539
+
+# Anagh
+https://candidateportalnew.ceipal.com/job-details/k0WkSp-HRT8apYN_bwDHrYKNHCDE4Ys-B92RyuuWGfc
+https://www.ziprecruiter.com/jobs/a/b?lk=pbrQZL0h_QPweDW_-z9S3g&tsid=111000153
+
+---
+## THURSDAY - 12/15/2026
+## A7iv
+
+https://www.youtube.com/watch?v=1kLB3rZ1Qmo
+level 4 for stickiness
+12800 ISO (darker conditions)
+able to give you eye AF (impressive)
+use mechanical shutter for action
+
+https://youtu.be/9QINtcbcjXc?si=_a5CCLdcWqSL84lw
+surf photography
+
+ISO brighten or darken photo - as ISO increases images get brighter - however, high ISO gets grainy
+
+---
+
+bought: HOOD
+sold: STUB @ 15.33, ACHR @ 9.24, JOBY @ 15.74, MARA 11.11 (+$1850, 12.4%), 
+RKLB 92 (+$1,018.06) - DID NOT SELL
+GAINERS list: STUB, CRWV up big
+
+Bitcoin @ 95,730
+
+---
+
+guitar: get out of the box
+https://youtu.be/Diou83hvGA4?si=5QIpepBpnIMLTy0-
+
+--- 
+
+FRIDAY WATCH: STUB, ACHR, HOOD, JOBY, MARA
+
+--- 
+## FRIDAY
+
+camera: lock on auto focus
+
+
+RKBL is a BEAST, up 9% at the moment
+
+---
+
+update firmware in camera AND lens
+clean lens
+
+https://alphauniverse.com/firmware/
+
+---
+
+triads: https://www.youtube.com/watch?v=MvUgoNBTNjA
+pentatonics, 3 fret shift: https://www.youtube.com/watch?v=Diou83hvGA4
+
+---
+
+franken guitar: https://www.sweetwater.com/store/detail/Strpe5150RBW--evh-striped-series-5150-red-black-and-white?mrkgadid=&mrkgcl=28&mrkgen=&mrkgbflag=&mrkgcat=&acctid=21700000001645388&dskeywordid=2322828028015&lid=92700080478108461&ds_s_kwgid=58700008746021299&ds_s_inventory_feed_id=97700000007215323&dsproductgroupid=2322828028015&product_id=Strpe5150RBW&prodctry=US&prodlang=en&channel=online&storeid=&device=c&network=g&matchtype=&adpos=largenumber&locationid=9032745&creative=705548890959&targetid=pla-2322828028015&campaignid=21455990307&awsearchcpc=1&gclsrc=aw.ds&gad_source=1&gad_campaignid=21455990307&gbraid=0AAAAAD_RQYnN26ZOOhKmlzpafIv98xpQK&gclid=CjwKCAiAvaLLBhBFEiwAYCNTf6f5Osd-AgIdEucdpV8nJpvrIHd8pYp8MhFrcZzdtmLjXDHhmDzazBoCrfwQAvD_BwE
+
+
+--- 
+
+## SUNDAY
+job hunt: Tundra Technical Solutions
+
+## MONDAY 12/19/26
+dropped off care for A12 service
+job hunt: applied to many positions
+
+Laird's old #
+310.947.9217
+
+---
+
+TUESDAY - 1/20/26
+markets: SELL AMERICA happening today, DJIA down over 915, NASDAQ down over 570, BTC down over 3000
+bills: paid Oliana water bill
+
+
+
+
+---
+
+WEDNESDAY
+Trump speaking at Davos
+"it's a drone war"
+"they're (Zalensky/Putin) stupid"
+
+
+SOLD:
+ORLY 95 @ $98.19 +$285 (+3.1%)
+AMZN 109 @ $231.69
+
+BOUGHT:
+CASY 8 @ $622.39
+ACHR 8.44, 8.31
+JOBY 14.35
+
+---
+
+Server and Client Components
+https://nextjs.org/docs/app/getting-started/server-and-client-components
+
+# streaming
+You can use React's use hook to stream data from the server to client
+<Posts> component is wrapped in a <Suspense> boundary
+https://nextjs.org/docs/app/getting-started/fetching-data#streaming-data-with-the-use-hook
+
+# Parallel data fetching
+https://nextjs.org/docs/app/getting-started/fetching-data#parallel-data-fetching
+
+Next.js has a built-in Data Cache that persists the result of data fetches across incoming server requests and deployments
+
+---
+
+
+# Next.js at the speed of Bun
+Bun: https://www.youtube.com/watch?v=f--3aG0XfCw
+
+Node runtime
+manages event loop, file I/O, networking, and bridge code to OS
+under hood Node uses JS V8 engine
+uses Lib UV (C library) to interact with OS
+
+Bun is a brand new RUNTIME built from scratch, written in Zig (modern faster system language)
+In bun the API and I/O calls are direct calls - much faster
+goal: 100% Node compatible w/ lots of built in options/apis like sql, s3
+
+Bun is a PACKAGE MANAGER
+Bun is a BUNDLER
+Bun is a TEST RUNNER
+
+
+start with 
+$ bun install
+
+then use runtime
+the use native APIs
+
+---
+
+https://bun.com/docs/installation
+
+$ curl -fsSL https://bun.com/install | bash
+######################################################################## 100.0%
+bun was installed successfully to ~/.bun/bin/bun 
+
+Added "~/.bun/bin" to $PATH in "~/.zshrc" 
+
+To get started, run: 
+
+  exec /bin/zsh 
+  bun --help 
+
+
+---
+
+
+https://bun.com/docs/guides/ecosystem/nextjs#build-an-app-with-next-js-and-bun
+
+---
+
+$ bun create next-app@latest lydia     
+✔ Would you like to use the recommended Next.js defaults? › Yes, use recommended defaults
+Creating a new Next.js app in /Users/suva/Code/Bun/lydia.
+
+Using bun.
+
+Initializing project with template: app-tw 
+
+
+Installing dependencies:
+- next
+- react
+- react-dom
+
+Installing devDependencies:
+- @tailwindcss/postcss
+- @types/node
+- @types/react
+- @types/react-dom
+- eslint
+- eslint-config-next
+- tailwindcss
+- typescript
+
+bun install v1.3.6 (d530ed99)
+
++ @tailwindcss/postcss@4.1.18
++ @types/node@20.19.30 (v25.0.9 available)
++ @types/react@19.2.9
++ @types/react-dom@19.2.3
++ eslint@9.39.2
++ eslint-config-next@16.1.4
++ tailwindcss@4.1.18
++ typescript@5.9.3
++ next@16.1.4
++ react@19.2.3
++ react-dom@19.2.3
+
+348 packages installed [6.18s]
+
+Generating route types...
+✓ Types generated successfully
+
+Initialized a git repository.
+
+Success! Created lydia at /Users/suva/Code/Bun/lydia
+
+---
+
+created GitHub repo
+
+git remote add origin git@github.com:ibbrett/lydia.git
+git branch -M main
+git push -u origin main
+
+
+---
+
+tailwind: utility-first classes
+
+---
+
+$ bun run dev
+
+---
+
+added VSC extension for React simple components
+rafce
+
+---
+
+
+Zamp Questions
+
+1. what IDE are most engineers using, VSC or other?
+
+
+automatic memoization
+useMemo, useCallback
+
+# did not run this command
+bun install babel-plugin-react-compiler
+
+---
+
+
+https://github.com/ibbrett/lydia/commit/3496317524ecfe6faa5aae383fb53f38879ae89a
+
+$ bun run build
+$ bun run --bun next build
+▲ Next.js 16.1.4 (Turbopack)
+
+  Creating an optimized production build ...
+
+> Build error occurred
+Error: Turbopack build failed with 1 errors:
+./next.config.ts
+Failed to resolve package babel-plugin-react-compiler while attempting to resolve React Compiler
+React compiler is enabled in next.config.ts. We attempted to resolve React Compiler relative to the next package. Is babel-plugin-react-compiler installed in your node_modules directory?
+
+
+    at processTicksAndRejections (null)
+error: "next" exited with code 1
+error: script "build" exited with code 1
+01/21/26 10:11:48 HST $ bun install babel-plugin-react-compiler
+bun add v1.3.6 (d530ed99)
+
+installed babel-plugin-react-compiler@1.0.0
+
+1 package installed [584.00ms]
+01/21/26 10:11:48 HST $ bun run build                          
+$ bun run --bun next build
+▲ Next.js 16.1.4 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1179.0ms
+✓ Finished TypeScript in 741.7ms    
+✓ Collecting page data using 7 workers in 151.0ms    
+Home what type of component am I?
+HelloWorld what type of component am I?
+✓ Generating static pages using 7 workers (4/4) in 156.9ms
+✓ Finalizing page optimization in 4.9ms    
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+○  (Static)  prerendered as static content
+
+
+---
+
+
+folders define routes
+
+---
+
+CMD + / toggles line comments
+
+VSCode Snippets: https://youtu.be/TGh2NpCIDlc?si=mHJyRnYlRIkZmTT4
+
+https://tailwindcss.com/docs/font-size
+https://bun.com/docs/guides/ecosystem/nextjs
+
+https://www.youtube.com/watch?v=I1V9YWqRIeI
+
+
+---
+
+
+import Link from "next/link";
+
+const Dashboard = () => {
+  return (
+    <div>
+      <h1>Dashboard</h1>
+      <ul className="mt-10">
+        <li>
+          <Link href={`/dashboard/analytics`}>analytics</Link>
+        </li>
+        <li>
+          <Link href={`/dashboard/users`}>users</Link>
+        </li>
+      </ul>
+    </div>
+  );
+};
+
+export default Dashboard;
+
+
+--- 
+
+Gemini: insulation
+
+Building a work shed in a tropical environment, Hawaii. I've added house wrap around the side walls. What kind of fiberglass insulation should I buy? I'm Thinking unfaced r-13. Does that sound right?
+
+
+The Recommendation: Stick with unfaced. Since you’ve already added house wrap (which acts as your weather-resistive barrier), unfaced batts allow the wall to "breathe" toward the interior, preventing trapped condensation.
+
+
+---
+
+# Everyone’s Blues Solos Are BAD Until They Learn This!
+https://youtu.be/7Pdss_Gswtc?si=OMtkhsn8_9RJVw-3
+
+---
+
+# THURSDAY - 1/22/26
+
+
+
+job hunt: 
+Wealthfront
+Software Engineer, Frontend 
+Palo Alto, CA · Reposted 19 hours ago · Over 100 applicants
+Promoted by hirer · Actively reviewing applicants
+140-185K
+note: applied for same position in August 2025
+https://www.linkedin.com/jobs/view/4321816786/?eBP=NOT_ELIGIBLE_FOR_CHARGING&trk=flagship3_search_srp_jobs&refId=conDoptdVZi6p4V5F7x1GQ%3D%3D&trackingId=ErWeNakZQSWK03%2FjyPgvfg%3D%3D
+
+
+---
+
+
+BUY
+
+SELL:
+RKLB 109 @ 83.01 - did not want to sell but stock down almost 6% on failing neutron rocket, total gain $160
+
+832 MGNI @ Limit $14.93, Day
+127 NOW @ Limit $128.20, Day
+1144 ACHR @ Limit $9.13, Day
+546 JOBY @ Limit $14.80, Day
+269 STUB @ 15.30
+
+
+---
+
+cut losses, lighten positions, get back to cash and be ready for correction days
+MGNI -6500, -34%
+SOUN -15650, -30.45%
+PLTR -1000, -8%
+NOW -5300,-24.5%
+ACHR -782, 7%
+JOBY +60,+.72%
+STUB +112,+2.8%
+
+WATCH: META
+
+---
+
+Rock Wool
+
+$88 for half a shed with thick rock wool x 4 = 352
+https://www.lowes.com/pd/ROCKWOOL-COMFORTBATT-R-30-Stone-Wool-Batt-Insulation-with-Sound-Barrier-23-in-W-x-47-in-L/3693532
+
+
+
+R-13 Unfaced Fiberglass Insulation Roll 23 in. W x 25 ft. L
+by
+Johns Manville
+
+
+# Owens Corning R- 30 Attic Unfaced Fiberglass Roll Insulation 47.92-sq ft ( 23-in W x 25-ft L ) Individual pack
+$70/roll, estimated 3 rolls for ceilings
+https://www.lowes.com/pd/Owens-Corning-R-30-Unfaced-Fiberglass-Insulation-Roll-23-in-x-300-in/5014639679
+
+# Owens Corning R- 13 Wall Unfaced Fiberglass Batt Insulation 106.56-sq ft ( 15-in W x 93-in L)
+$47.47/package, 11 sheets, covers 106sqft, need 266 x 3 => 150
+https://www.lowes.com/pd/Owens-Corning-R-13-Wall-106-56-sq-ft-Unfaced-Fiberglass-Batt-Insulation-Individual-Pack/1000515549
+
+
+---
+
+
+HD
+
+
+https://www.homedepot.com/pep/Johns-Manville-R-13-Kraft-Faced-Fiberglass-Insulation-Roll-15-in-W-x-32-ft-L-B1284/100317834?g_store=1702&source=shoppingads&locale=en-US&fp=ggl&pla&mtc=SHOPPING-CM-CML-GGL-D22-022_004_INSULATION-NA-NA-NA-PMAX-7846999-NA-NA-NA-NBR-NA-NA-NEW-Pmax&cm_mmc=SHOPPING-CM-CML-GGL-D22-022_004_INSULATION-NA-NA-NA-PMAX-7846999-NA-NA-NA-NBR-NA-NA-NEW-Pmax-19116999312--&gclsrc=aw.ds&gad_source=1&gad_campaignid=19122624130&gbraid=0AAAAADq61UdNbHf2_ocSxybP0SaO3yCH-&gclid=CjwKCAiAssfLBhBDEiwAcLpwfthPhtSRVSZEB8O9bUwTpu9rNw2nZzg10vWvvyk5KkmNtdm06sJC2RoCkUEQAvD_BwE
+
+
+---
+
+lydia
+
+for delete, create dynamic route handlers
+[id] folder
+
+
+http://localhost:3000/api/books
+
+
+---
+
+
+  <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+          <h2 className="text-xl font-bold">Card 1</h2>
+          <p className="text-gray-600">Hover me to see the floating effect.</p>
+        </div>
+
+        <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+          <h2 className="text-xl font-bold">Card 2</h2>
+          <p className="text-gray-600">I also float!</p>
+        </div>
+
+        <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
+          <h2 className="text-xl font-bold">Card 3</h2>
+          <p className="text-gray-600">I also float!</p>
+        </div>
+
+---
+
+https://moonpt.com/
+https://www.playguitaracademy.com/blog/guitar-scales-the-five-pattern-system
+
+
+--- 
+caching Next.js 16
+1. browser cache
+2. server cache
+3. data cache
+
+you no longer define SSR and SSG
+you simply define what needs to be cached
+
+53:50 cacheComponents: true,
+
+"use client"
+"use server"
+
+routes, components
+
+"use cache"
+file, component, layout level
+
+cacheLife --> when to clear
+cacheTag --> what to clear
+
+
+---
+
+Build Adapters API --> in alpha --> next.js build process for more providers (other than vercel): AWS, Cloudflare, Netlify, your own server ...
+
+
+---
+
+## FRIDAY
+
+BUY:
+JOBY 14.17
+ACHR 8.78
+STUB 14.59
+C 113.34
+
+SELL:
+
+WATCH: META
+
+HINDSIGHT: MGNI and RKLB up over 5% each today ...
+MGNI 15.89
+RKLB 92.92
+
+HINDSIGHT: Glad I dumped SOUN, down close to 6%
+
+---
+
+working on Lydia, Next.js App
+SEO, MEta Data
+cacheComponents and Suspense boundary
+
+---
+
+Fonts:
+Schibsted Grotesk
+Schoolbell
+Shojumaru
+Shantell Sans
+
+---
+
+
+@layer base {
+  h1 {
+    @apply text-gradient text-6xl font-semibold max-sm:text-4xl;
+  }
+  h2 {
+    font-family: var(--font-sans);
+  }
+}
+
+
+---
+
+OCR, React, Node
+https://github.com/tesseract-ocr/tesseract/blob/main/README.md
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image
+
+---
+
+MONDAY - 1/26/26
+
+job hunt: 
+
+Software Developer
+ALENOTECH SOLUTIONS LLC
+San jose, Remote
+https://www.ziprecruiter.com/jobs/a/b?lk=0FsILXxJm0u46rW01WamGw&tsid=111000281
+
+
+Senior React Developer
+Belva.ai
+Bellevue, WA • Remote
+Applied
+$125K - $150K/yr
+https://www.ziprecruiter.com/jobseeker/home?lk=pQFdOtqkw21o96AwsUz8Xg&mi=019bfb85-6c86-75be-bc65-29b641e6b441&btd=AAHXHQWyFC8IyZw0aHpj-GV4Tg8y1A4dXSZhXyw_mRud4BsV4nYl_L3aTcLGe8Xe3HuRoU1yGIlw
+
+---
+
+2025-01-14
+MyChart Hawaii
+u:brettmorriss
+p: K@h@n@m0ku!!
+
+messaged Dr Galati:
+
+Look at me, using MyChart to send you a message. I wanted to add a couple of things I forgot to mention. The first I mentioned but didn't mention the amount. I'm doing pushups on a daily basis. However on most days I do 250 of them, 5 sets of 50. The other thing is a few months ago I basically lost interest in alcohol, so currently, that's out of the picture. My daily activity, which is really high from house renovations has me burning a lot of calories. My diet is extremely simple and lean and I'm drinking lots of water. -Aloha
+
+---
+
+# Font Showcase
+/Users/suva/Code/Node/React/React19Frameworks/vite-react-19-2
+npm run dev
+
+# Leahi
+/Users/suva/Code/Node/LeahiPortal/api
+/Users/suva/Code/Node/LeahiPortal/portal_cursor
+npm run dev
+
+---
+
+## Lydia
+
+# Lydia - Bun Next.js 
+/Users/suva/Code/Bun/lydia
+bun run dev
+
+# Next.js 16 Full Course | Build and Deploy a Production-Ready Full Stack App
+https://www.youtube.com/watch?v=I1V9YWqRIeI
+1:01:30 - Dev Events app
+
+# GitHub
+https://github.com/ibbrett/lydia/tree/dev
+
+# Bun
+https://bun.com/docs/guides/ecosystem/nextjs#build-an-app-with-next-js-and-bun
+
+
+
+This is a fixed-term lease for 5.5 months, commencing on January 12,
+2026 and ending on June 30, 2026
+
+---
+
+HalfBaked - January 20, 2026
+AI Operating System for Homeschooling
+
+---
+
+drive: https://drive.google.com/drive/u/2/folders/1rpBCc8ifGbn4PaMtBdE_OzqEJLdvcI2N
+
+
+
+Bedroom #1 – Master w/ Private En Suite – $1,300/month
+• Utilities included in rent(electric, water, WiFi, and trash)
+• Spacious room w/ private bathroom (double vanity, shower/tub, toilet)
+• A/C, closet, ceiling fan
+• Unfurnished (twin mattress available upon request)
+• $500 refundable security deposit
+• First & last month’s rent due upfront
+• Flexible lease terms
+• Available immediately
+
+
+Feb 10 - prorate $835 + 1300 + 500
+
+---
+
+
+755	rwxr-xr-x
+owner: read, write, execute
+group: read, execute
+public: read, execute
+
+
+
+https://postgres-portal.vercel.app/sections/event?section_id=3
+
+
+---
+
+
+# TUESDAY
+take profits before another dip
+
+SOLD 
+CRWV 219 @ 111.04, +12.8% on the day, +$2750/day, total -$300
+RKLB 85 @ 85.69 , + 6.5% on the day, + $450/day, -$200 total
+MARA 1214 @ 10.31 +$407/day, +$54 total
+
+BOUGHT/PENDING
+HOOD 23 @ 104.94
+
+WATCH: CloudFlare, 
+
+B +$3100
+J -$1000
+
+---
+
+# Next.js Bun
+
+1. creating a button 
+"it's all aboiiut server side rendering"
+Home page is Server Side Rendered - we are getting all the SEO benefits ... and quick load times
+
+button has an onClick listener
+since we are using a listener we NEED to turn this button component into a client component
+
+'use client'
+
+
+---
+
+https://v1.tailwindcss.com/components/buttons
+
+import Image from "next/image";
+<Image src={"/" + team.img} alt="team image" width={124} height={124} />
+
+<img src={team.img} />
+
+
+---
+
+# use spread operator to add ppops
+<EventCard { ...event } />
+
+
+
