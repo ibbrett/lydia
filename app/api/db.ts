@@ -10,6 +10,7 @@ const nfl = {
     { id: 2, name: "San Francisco Forty Niners", img: "niners.png" },
     { id: 3, name: "Los Angeles Rams", img: "rams.png" },
     { id: 4, name: "Arizona Cardinals", img: "cardinals.png" },
+    { id: 5, name: "Chicago Bears", img: "bears.png" },
   ],
 };
 
