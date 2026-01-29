@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server";
+import { NextResponse, NextRequest } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
 
@@ -27,5 +27,34 @@ export async function GET() {
       error: e instanceof Error ? e.message : "Unknown",
     });
   }
-  // return Response.json(books);
 }
+
+/*
+export async function POST(req: NextRequest) {
+  try {
+    const formData = await req.formData();
+    let event;
+    try {
+    } catch (e) {
+      return NextResponse.json(
+        { message: "invalid JSON data format" },
+        { status: 400 },
+      );
+    }
+    const updatedNotes = Notes.update(notes);
+    return NextResponse.json(
+      { message: "Notes updted successfully" },
+      { status: 201 },
+    );
+  } catch (e) {
+    console.error(e);
+    return NextResponse.json(
+      {
+        message: "event creation failed",
+        error: e instanceof Error ? e.message : "Unknown",
+      },
+      { status: 400 },
+    );
+  }
+}
+*/
