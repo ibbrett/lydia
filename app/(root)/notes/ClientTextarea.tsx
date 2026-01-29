@@ -1,10 +1,15 @@
 "use client";
 
+import { use } from "react";
 import { useState } from "react";
 
-const ClientTextarea = ({ initialContent }) => {
+//const ClientTextarea = ({ data }: { data: any }) => {
+const ClientTextarea = ({ data }) => {
+  const notes = use(data);
   // Use useState to manage the value, initialized with the prop
-  const [content, setContent] = useState(initialContent);
+  const [content, setContent] = useState(notes.content);
+
+  console.log("ClientTextarea", content);
 
   const handleChange = (event) => {
     // Update the state with the new value from the textarea
